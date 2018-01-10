@@ -1,0 +1,1 @@
+Read RfID security card UID via USB on Windows
